@@ -1,0 +1,23 @@
+.inicio {
+  background-color: #fffef7;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.inicio .div-3 {
+  background-color: #fffef7;
+  height: 3000px;
+  position: relative;
+  width: 1440px;
+}
+
+.inicio .image {
+  height: 634px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 120px;
+  width: 1440px;
+}
